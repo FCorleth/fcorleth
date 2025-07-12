@@ -1,21 +1,21 @@
-<h1 align="center">👋 Olá, eu sou o Fábio Corleth</h1>
+<h1 align="center">👋 Hi, I'm Fábio Corleth</h1>
 
 <p align="center">
-  <b>Desenvolvedor Frontend & UI/UX Designer</b><br>
-  Apaixonado por criar interfaces modernas, funcionais e centradas na experiência do usuário.
+  <b>Frontend Developer & UI/UX Designer</b><br>
+  Passionate about building modern, functional interfaces focused on user experience.
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-🎯 Trabalho na <b>Salesmeet</b>, uma startup de inteligência artificial, desenvolvendo interfaces de alto impacto para produtos SaaS.  
-🎨 Combinando design e código, atuo desde o planejamento visual até a implementação de componentes escaláveis e acessíveis.  
-💡 Comunicativo, criativo e motivado por desafios. Sempre buscando formas de evoluir e entregar mais valor através da tecnologia.
+🎯 Currently working at <b>Salesmeet</b>, an AI startup, building high-impact interfaces for the platform.  
+🎨 I bridge the gap between design and development — from visual planning to implementing scalable, accessible components.  
+💡 Communicative, creative, and challenge-driven. Always looking for ways to grow and deliver more value through technology.
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -33,43 +33,31 @@
 
 ---
 
-### 📊 Áreas de experiência
+### 📊 Areas of Expertise
 
-- Dashboards de performance e dados  
-- Plataformas SaaS  
-- Landing pages otimizadas e responsivas  
-- Design System e prototipagem no Figma
-
----
-
-### 📁 Projetos em destaque
-
-🔗 [Portfólio completo](https://portifolio-theta-sandy-33.vercel.app/)
-
-Alguns projetos que merecem destaque:
-- Interfaces inteligentes para produtos de IA  
-- Componentes e layouts reutilizáveis com foco em escalabilidade  
-- Layouts minimalistas e funcionais que equilibram forma e função
+- Performance and analytics dashboards  
+- SaaS platforms  
+- Optimized and responsive landing pages  
+- Design systems and prototyping in Figma
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Let's Connect
 
 📎 [LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-corleth-2384b22a6/)  
-📁 [Portfólio](https://portifolio-theta-sandy-33.vercel.app/)  
-📬 Em breve, contato por e-mail e outras redes aqui!
+📁 [Portfolio](https://portifolio-theta-sandy-33.vercel.app/)  
 
 ---
 
-### ⚡ Curiosidades
+### ⚡ Fun Facts
 
-- Amo resolver problemas com design inteligente e código limpo  
-- Gosto de trabalhar em equipe e transformar ideias em soluções reais  
-- Sempre em busca de novos aprendizados, tendências e boas práticas
+- I love solving problems with smart design and clean code  
+- I enjoy working in teams and turning ideas into real solutions  
+- I'm constantly learning and following the latest tech and design trends
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 <p align="center">
-  <em>Se quiser colaborar, bater um papo ou recrutar, estou à disposição!</em>
+  <em>Let’s collaborate, connect or chat — I’m open to new opportunities.</em>
 </p>
