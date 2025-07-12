@@ -17,14 +17,19 @@
 
 ### 🛠️ Tecnologias e ferramentas
 
-**Frontend:**  
-React • TypeScript • JavaScript • HTML • CSS
-
-**UI Frameworks & Design Systems:**  
-Tailwind CSS • Material UI • ShadCN • Figma
-
-**Versionamento & Colaboração:**  
-Git • GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -34,15 +39,6 @@ Git • GitHub
 - Plataformas SaaS  
 - Landing pages otimizadas e responsivas  
 - Design System e prototipagem no Figma
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FCorleth&show_icons=true&theme=transparent&rank_icon=github&hide=issues&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCorleth&layout=compact&theme=transparent" />
-</p>
 
 ---
 
