@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fábio Corleth</h1>
+<h1 align="center">Hi, I'm Fábio Corleth</h1>
 
 <p align="center">
   <b>Frontend Developer & UI/UX Designer</b><br>
@@ -7,11 +7,11 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-🎯 Currently working at <b>Salesmeet</b>, an AI startup, building high-impact interfaces for the platform.  
-🎨 I bridge the gap between design and development — from visual planning to implementing scalable, accessible components.  
-💡 Communicative, creative, and challenge-driven. Always looking for ways to grow and deliver more value through technology.
+Currently working at <b>Salesmeet</b>, an AI startup, building high-impact interfaces for the platform.  
+I bridge the gap between design and development — from visual planning to implementing scalable, accessible components.  
+Communicative, creative, and challenge-driven. Always looking for ways to grow and deliver more value through technology.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Areas of Expertise
+### Areas of Expertise
 
 - Performance and analytics dashboards  
 - SaaS platforms  
@@ -42,10 +42,10 @@
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
-📎 [LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-corleth-2384b22a6/)  
-📁 [Portfolio](https://portifolio-theta-sandy-33.vercel.app/)  
+[LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-corleth-2384b22a6/)  
+[Portfolio](https://portifolio-theta-sandy-33.vercel.app/)  
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<h3 align="center">Thanks for visiting my profile!</h3>
 <p align="center">
   <em>Let’s collaborate, connect or chat — I’m open to new opportunities.</em>
 </p>
