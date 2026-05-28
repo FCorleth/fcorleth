@@ -44,8 +44,8 @@ I also contributed to platform optimizations, significantly reducing the cost of
 
 ### Contact
 
-LinkedIn: https://www.linkedin.com/in/f%C3%A1bio-corleth-2384b22a6/  
-Portfolio: https://portifolio-theta-sandy-33.vercel.app/  
+LinkedIn: linkedin.com/in/fabio-corleth/
+Portfolio: portifolio-theta-sandy-33.vercel.app/  
 
 ---
 
